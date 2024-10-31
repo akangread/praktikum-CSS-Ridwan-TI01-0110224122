@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(36, 41, 45);
+}
+
+h1{
+    color: #b89258;
+    text-align: center;
+}
+
+#header{
+    background-color: aliceblue;
+    height: 125px;
+    padding: 10px;
+}
+
+.desk{
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+    margin: 170px;
+    text-align: center;
+}
+
+.menu a{
+    margin-left: 190;
+}
+
+.menu a:hover{
+    font-weight: bold;
+    color: #b89258;
+}
+
+.gambar{
+    height: 275px;
+    margin-right: 0px;
+    display: flex; 
+    justify-content: center;
+}
+
+.isi::first-letter{
+    color: #b89258;
+    font-size: 30px;
+}
+
+#profil{
+    display: inline-block;
+    padding: 2px 70px 2px 20px;
+    margin-left: -20px;
+    background-color: #b89258;
+    color: #2c2b29;
+}
+
+.profil{
+    display: inline-block;
+    padding: 2px 70px 2px 20px;
+    margin-left: -20px;
+    margin-top: 35px;
+    background-color: aliceblue;
+}
+
+.koleksi{
+    height: 273px;
+    display: flex; 
+    justify-content: center;
+    border: 5px solid #b89258;
+}
+
+.promo{
+    text-align: center;
+    margin-left: -20px;
+    margin-top: 35px;
+    color: #b89258;
+    background-color: aliceblue;
+}
+
+.ecommerce li{
+    display: inline;
+    margin: 170px;
+    text-align: center;
+}
+
+.ecommerce a{
+    margin-left: 190;
+}
+
+.ecommerce a:hover{
+    font-weight: bold;
+    color: #b89258;
+}
